@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Jackpot {
+public class Main {
     public static void main(String[] args) throws InterruptedException {
         Scanner teclado = new Scanner(System.in);
         teclado.useLocale(Locale.US);
